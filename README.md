@@ -1,2 +1,2 @@
 # hello-world
-This is my hello-world reposity
+This is my hello-world reposity.
